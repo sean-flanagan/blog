@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sean's Blog
 
 You can use the [editor on GitHub](https://github.com/sean-flanagan/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
