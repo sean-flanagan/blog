@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src=blog/autodraw 6_4_2021 (2).png)
+[Link](url) and ![Image](src=https://github.com/sean-flanagan/blog/blob/c5c9c2b7a3568cb50a9b74cc442636b6affeafe7/autodraw%206_4_2021%20(2).png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
